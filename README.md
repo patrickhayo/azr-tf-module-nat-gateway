@@ -1,6 +1,6 @@
-# azr-tf-module-template
+# azr-tf-module-nat-gateway
 
-[Terraform](https://www.terraform.io) Module to create **[NAME]** in Azure
+[Terraform](https://www.terraform.io) Module to create a **NAT Gateway** in Azure
 
 <!-- BEGIN_TF_DOCS -->
 ## Prerequisites
