@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2022-07-24
 
+### Features
+
+- Initial Commit
+- Create ```NAT Gateway```
+
+
 [Unreleased]: https://github.com/patrickhayo/azr-tf-module-nat-gateway/compare/1.0.0...HEAD
 
 [1.0.0]: https://github.com/patrickhayo/azr-tf-module-nat-gateway/compare/0af0586faf71836753293c9d178ab42c09668701...1.0.0
